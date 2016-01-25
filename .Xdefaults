@@ -2,25 +2,25 @@
 
 
 ! Color scheme
-*background:#202020
-*foreground:#adadad
-*cursorColor:#adadad
-*color0:#202020
-*color1:#707070
+*background:#000000
+*foreground:#ffffff
+*cursorColor:#ffffff
+*color0:#800080
+*color1:#ff0080
 *color2:#808080
-*color3:#909090
-*color4:#a0a0a0
-*color5:#505050
-*color6:#606060
-*color7:#adadad
-*color8:#404040
-*color9:#e72d6a
-*color10:#cf275f
-*color11:#b52253
-*color12:#2cc9e8
-*color13:#27b3cf
-*color14:#229db5
-*color15:#e7e7e7
+*color3:#ff8080
+*color4:#8000ff
+*color5:#ff00ff
+*color6:#8080ff
+*color7:#ff80ff
+*color8:#800080
+*color9:#ff0080
+*color10:#808080
+*color11:#ff8080
+*color12:#8000ff
+*color13:#ff00ff
+*color14:#8080ff
+*color15:#ff80ff
 
 ! Xft resources
 Xft.antialias:true
@@ -55,6 +55,7 @@ URxvt.fone:pixelsize=20
 URxvt.boldFont:
 #URxvt.transparent:true
 #URxvt.tintcolor:white
-#URxvt.shading:15
+#URxvt.shading:20
 urxvt.cursorBlink:true
+
 
