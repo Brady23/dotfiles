@@ -1,2 +1,2 @@
 # dotfiles
-Here lie Brady's dotfiles. Enjoy.
+Version 2.0 = Darwinian
